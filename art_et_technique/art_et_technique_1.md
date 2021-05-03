@@ -117,7 +117,7 @@ Peut-être que l'art suppose la technique comme préalable pour pouvoir être pr
 ### b. Reproductibilité de l'objet $\neq$ Unicité de l'œuvre d'art
 
 
-Chaque œuvre d'art est uneique, tandis que les produite techniques sont indéfiniment reproductibles.
+Chaque œuvre d'art est unique, tandis que les produite techniques sont indéfiniment reproductibles.
 
 Ce qui fait la plus grande valeur d'un œuvre d'art, c'est son unicité : La rareté fait la valeur de l'œuvre d'art.
 
@@ -137,12 +137,12 @@ L'unicité de l'œuvre implique l'originalité absolue des œuvres d'art.
 
 | technique | affaire de **production** et de **produits**         |
 |-----------|----------------------------------------------|
-| art       | affaire de **creation** et **d'œuvres**              |
+| art       | affaire de **création** et **d'œuvres**              |
 
 
 | règle en art       | ~~diminution de la liberté~~ vecteur de son augmentation     |
 |--------------------|----------------------------------------------------------|
-| règle en technique | contraingnante, débouche sur la standardisation          |
+| règle en technique | contraignante, débouche sur la standardisation          |
 
 
 
@@ -152,5 +152,17 @@ A mi chemin art $\leftrightarrow$ industrie : artisanat$\newline$
 
 
 
+### c. Le rapport au temps
+
+
+Le produit technique se consomme et disparait, tandis que l'œuvre d'art se conserve et perdure au travers du temps. Permanence des œuvres d'art, qui sont tout aussi artistiques aujourd'hui qu'hier.
+
+Alors que la technique se caractérise par un obsolescence due au progrès.
+
+$\implies$ La technique progresse tandis que l'art demeure (quoi qu'il évolue).
+
+#### Conclusion
+
+Si l'art suppose la technique, il ne s'y réduit pas. Au terme de ce premier moment, on peut définir l'œuvre comme la création d'œuvres uniques et intemporelles visant une fin qui est déposée à même l'œuvre d'art. Au contraire, la technique qui vise l'utilité, et dont les produits sont faites pour être consommés, et sont standardisés.
 
 
