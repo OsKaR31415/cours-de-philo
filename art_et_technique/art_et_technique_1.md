@@ -148,6 +148,9 @@ L'unicité de l'œuvre implique l'originalité absolue des œuvres d'art.
 
 La règle en matière d'industrie (de technique) asservit le travail et le travailleur puisque celui-ci ne choisit pas ce qu'il fait ni comment il le fait, tandis que l'artiste choisit ce qu'il fait et comment il le fait et que les règles qu'il s'impose ($\neq$ qu'il subit) stimule sa créativité
 
+A mi chemin art $\leftrightarrow$ industrie : artisanat$\newline$
+
+
 
 
 
