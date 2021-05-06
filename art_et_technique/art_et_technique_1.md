@@ -3,7 +3,6 @@
 
 ## 1. Étymologie
 
-
 Art : lat. _Ars_
 
 $\implies$ "habileté, savoir-faire, talent"
@@ -161,8 +160,14 @@ Alors que la technique se caractérise par un obsolescence due au progrès.
 
 $\implies$ La technique progresse tandis que l'art demeure (quoi qu'il évolue).
 
+
 #### Conclusion
 
 Si l'art suppose la technique, il ne s'y réduit pas. Au terme de ce premier moment, on peut définir l'œuvre comme la création d'œuvres uniques et intemporelles visant une fin qui est déposée à même l'œuvre d'art. Au contraire, la technique qui vise l'utilité, et dont les produits sont faites pour être consommés, et sont standardisés.
+
+
+
+
+
 
 
